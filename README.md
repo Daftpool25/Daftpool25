@@ -7,8 +7,7 @@ I'm 24 years old, currently I know javascript, HTML, css, bootstrap and Sass. Re
 
 I was born in Venezuela, but I emigrated at the age of 18, when I became independent. I've had jobs in various areas of commerce, gastronomy, etc. In 2019 I moved to Argentina. Since high school I was programming apps in Java with Android Studio and Ecipse, but then I had to pause my interest in programming until now that I've successfully resumed it.
 
-
-![React js (1)](https://user-images.githubusercontent.com/111264354/213256438-4e0c254c-8384-46ed-a622-d8e0e7db5301.png)
+![React js (1)](https://user-images.githubusercontent.com/111264354/213256605-d5b85857-fc6a-41cb-87cc-5c1fc4a83857.png)
 
 
 ### React Js && Firebase && Javascript && SASS && Html && Bootstrap && Node:js && Express && MySQL && Git && Typescript
