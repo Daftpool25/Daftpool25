@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Full stack developer](https://user-images.githubusercontent.com/111264354/213251528-7e34b36b-e056-4f13-b634-f80d6bce4082.gif)
+![Full stack developer (1)](https://user-images.githubusercontent.com/111264354/213255786-0918bdd0-8512-4e13-812e-4675f0353102.gif)
 
 
 I'm 24 years old, currently I know javascript, HTML, css, bootstrap and Sass. Regarding libraries and frameworks, I specialize in React.js on the frontend side and Express on the backend. Thanks to platforms like OpenBootcamp and FreeCodeCamp I've been able to learn these technologies, as well as SQL and non-SQL databases (mongoDB, Firebase). 
