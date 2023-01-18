@@ -6,6 +6,14 @@ I'm 24 years old, currently I know javascript, HTML, css, bootstrap and Sass. Re
 
 I was born in Venezuela, but I emigrated at the age of 18, when I became independent. I've had jobs in various areas of commerce, gastronomy, etc. In 2019 I moved to Argentina. Since high school I was programming apps in Java with Android Studio and Ecipse, but then I had to pause my interest in programming until now that I've successfully resumed it.
 
+### 😄 My Skills 
+
+### 🌱 I’m currently learning
+
+### 🔭 I’m currently working on ...
+
+
+
 <!--
 **Daftpool25/Daftpool25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
