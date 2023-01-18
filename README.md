@@ -9,13 +9,15 @@ I was born in Venezuela, but I emigrated at the age of 18, when I became indepen
 
 ![React js](https://user-images.githubusercontent.com/111264354/213251635-6aeb15e6-015f-4078-aa18-6da273ae0a2e.gif)
 
-
+React Js && Firebase && Javascript && SASS && Html && Bootstrap && Node:js && Express && MySQL && Git && Typescript
 
 ### 🌱 I’m currently learning
 
+Angular && MongoDB && Jest && Cypress && Sequelize && Docker
+
 ### 🔭 I’m currently working on ...
 
-
+My pinned repositories
 
 <!--
 **Daftpool25/Daftpool25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
