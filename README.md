@@ -21,10 +21,10 @@ I was born in Venezuela, but I emigrated at the age of 18, when I became indepen
 Angular && MongoDB && Jest && Cypress && Sequelize && Docker
 
 
+![React js (2)](https://user-images.githubusercontent.com/111264354/213257078-ff8f9a71-4e42-4137-a008-4324f8b0b1c5.png)
 
-### 🔭 I’m currently working on ...
 
-My pinned repositories
+###My pinned repositories
 
 <!--
 **Daftpool25/Daftpool25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
