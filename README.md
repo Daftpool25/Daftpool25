@@ -10,7 +10,7 @@ I was born in Venezuela, but I emigrated at the age of 18, when I became indepen
 ![React js (1)](https://user-images.githubusercontent.com/111264354/213256605-d5b85857-fc6a-41cb-87cc-5c1fc4a83857.png)
 
 
-### React Js && Firebase && Javascript && SASS && Html && Bootstrap && Node:js && Express && MySQL && Git && Typescript
+### React Js && Firebase && Javascript && SASS && Html && Bootstrap && Node:js && Express && MySQL && Postgres && MongoDB && Sequelize && Mongoose && Git && Typescript && Cypress && Jest && Agile methodologies
 
 
 
@@ -18,7 +18,7 @@ I was born in Venezuela, but I emigrated at the age of 18, when I became indepen
 
 
 
-Angular && MongoDB && Jest && Cypress && Sequelize && Docker
+Angular && Docker
 
 
 ![React js (2)](https://user-images.githubusercontent.com/111264354/213257078-ff8f9a71-4e42-4137-a008-4324f8b0b1c5.png)
